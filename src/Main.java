@@ -30,5 +30,10 @@ public class Main {
         float zmFloat = Float.MIN_VALUE;
         float zmFloat2 = Float.MAX_VALUE;
         System.out.println("Float: " + zmFloat + " - " + zmFloat2);
+        double zmDouble = Double.MIN_VALUE;
+        double zmDouble2 = Double.MAX_VALUE;
+        System.out.println("Double: " + zmDouble + " - " + zmDouble2);
+
+
         }
     }
